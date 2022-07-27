@@ -43,4 +43,5 @@
 </div>
 
 <br></br>
-### Want to see my CV? Click!👉 <a href="https://www.notion.so/developer-haneul/34981ad8f6f34a6093dff8644f20fe03">(Korean)</a>
+### Want to see my CV? Click!
+👉 <a href="https://www.notion.so/developer-haneul/34981ad8f6f34a6093dff8644f20fe03">(Korean)</a>
