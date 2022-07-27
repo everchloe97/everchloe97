@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi 👋 I am ...
 
-## Back-End Developer
+## Back-End Developer Ha Neul Yeom who loves 💙
+  * clean code 
+  * persistent development
+  * cooperate with people 
+  * egg roll 🧈/ swimming 🏊‍♂️ / book 📖 / earth 🌱
 
 #### Stack
 <div aligin="center">
@@ -26,7 +30,7 @@
 
 [![everchloe97's GitHub stats](https://github-readme-stats.vercel.app/api?username=everchloe97)](https://github.com/everchloe97/github-readme-stats)
 
-#### What I have been through
+### What I have been through
 <div aligin="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -38,4 +42,5 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
-<b>Want to see my CV? Click!👉 <a href="https://www.notion.so/5455a168a551435b82f9399548be012b">(Korean)</a> </b>
+<br></br>
+### Want to see my CV? Click!👉 <a href="https://www.notion.so/developer-haneul/34981ad8f6f34a6093dff8644f20fe03">(Korean)</a>
