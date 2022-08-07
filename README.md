@@ -39,8 +39,14 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
+*****************
+
 ### Want to see my CV? Click!
-👉 <a href="https://developer-haneul.notion.site/77760ce319974cfe9c7d4311fe6773ff">(Ko)</a>
+👉 <a href="https://developer-haneul.notion.site/77760ce319974cfe9c7d4311fe6773ff">()</a>
 
 ### Want to see my Story more? Click!
-👉 <a href="https://velog.io/@everchloe97">
+👉 <a href="https://velog.io/@everchloe97">(Story)</a>
+
+### Want to join Study? Click!
+👉 <a href="https://developer-haneul.notion.site/CS-study-ce3d4884859340fca29bd6e98ed75f6b">(Study)</a>
+자유롭게 관련 내용을 추가하고 보완해주세요. 피드백은 comment로 남겨주세요. 언제나 환영합니다.
