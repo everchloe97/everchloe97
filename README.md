@@ -1,22 +1,20 @@
-### Hi 👋 I am ...
-
+### Hi I am 
 ## Back-End Developer Ha Neul Yeom who loves 💙
-  * clean code 
-  * persistent development
-  * cooperate with people 
-  * egg roll 🧈/ swimming 🏊‍♂️ / book 📖 / earth 🌱
+  * clean code (깔끔하고 정확하고 확장가능성이 좋은 코드를 추구합니다.)
+  * persistent development (오랜 시간 지속가능한 개발을 추구합니다.)
+  * cooperate with people (협업하며 개발하는 것을 좋아합니다.)
+  * egg roll 🧈/ swimming 🏊‍♂️ / book 📖 / earth 🌱 (계란말이와 수영 책 읽는 것을 좋아하며 환경에 대한 관심이 많습니다.)
 
-#### Stack
+### Stack
 <div aligin="center">
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
 </div>
 
-#### Tools & Hosting
+### Tools & Hosting
 <div aligin="center">
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
@@ -26,7 +24,6 @@
 </div>
 
 ### Current Status: Back-End Engineer 👩‍💻
-
 
 [![everchloe97's GitHub stats](https://github-readme-stats.vercel.app/api?username=everchloe97)](https://github.com/everchloe97/github-readme-stats)
 
@@ -42,6 +39,8 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
-<br></br>
 ### Want to see my CV? Click!
-👉 <a href="https://www.notion.so/developer-haneul/34981ad8f6f34a6093dff8644f20fe03">(Korean)</a>
+👉 <a href="https://developer-haneul.notion.site/77760ce319974cfe9c7d4311fe6773ff">(Ko)</a>
+
+### Want to see my Story more? Click!
+👉 <a href="https://velog.io/@everchloe97">
