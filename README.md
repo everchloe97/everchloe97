@@ -41,9 +41,9 @@
 
 *****************
 
-### Want to see my CV? Click!
-👉 <a href="https://developer-haneul.notion.site/77760ce319974cfe9c7d4311fe6773ff">(CV)</a>
-
+<!-- ### Want to see my CV? Click! -->
+<!-- 👉 <a href="https://developer-haneul.notion.site/77760ce319974cfe9c7d4311fe6773ff">(CV)</a>
+ -->
 ### Want to see my Story more? Click!
 👉 <a href="https://velog.io/@everchloe97">(Story)</a>
 
